@@ -1,0 +1,6 @@
+module Pods_crudoperation {
+  umbrella header "Pods-crudoperation-umbrella.h"
+
+  export *
+  module * { export * }
+}
